@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:shubhgpatel0205@gmail.com">📧 Email</a> ·
-  <a href="https://linkedin.com/in/shubhgpatel">💼 LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/shubh-patel-834a6329b/">💼 LinkedIn</a> ·
   <a href="https://github.com/Shubhgpatel">🐙 GitHub</a>
 </p>
 
