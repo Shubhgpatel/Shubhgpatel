@@ -59,16 +59,6 @@ Databases        MySQL · MongoDB · SQLite · ChromaDB · Qdrant
 Tools            Git · Docker · HubSpot · Zapier
 ```
 
----
-
-### Achievements
-
-🏆 **Top 10 Finalist** — 36-hour National Hackathon at Adani University (180+ teams) — Built an AI-powered Mental Health Companion
-📜 Data Structures & Algorithms using Java — NPTEL
-📜 Intermediate Machine Learning & Intro to ML — Kaggle
-
----
-
 ### GitHub Stats
 
 <p align="center">
